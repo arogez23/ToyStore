@@ -19,6 +19,9 @@ event: 'add_to_cart',
 product_id: id,
 product_name: name,
 product_price: Number(price)
+})
+})
+})
 }
   
 const cartItemsListeners = () => {
